@@ -1,12 +1,7 @@
 - 👋 Hi, I’m @PortiESP
 - 🌱 I’m currently learning on full-stack development, pentesting, ML, ...
-- 📮 Reach me through intagram
+- 📮 Reach me through intagram (@portii.rm)
+- 💂‍♂️ English is not my first language so any misspelled words let me know 😉
 
 🟥🟥🟥🟥🟨🟨🟨🟥🟥🟥🟥
 
-
-
-<!---
-PortiESP/PortiESP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
