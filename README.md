@@ -1,4 +1,4 @@
-# 👋 Hey, I'm CuB1!
+# 👋 Hey, I'm Porti!
 
 I'm a Software Engineering Student from Spain. I'm passionate about technology and love learning new things!
 
