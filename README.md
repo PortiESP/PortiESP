@@ -68,6 +68,6 @@ Feel free to reach out by any of my profiles below:
 | 📷 Instagram    | 🔗 https://www.instagram.com/portii.rm |
 | 📧 Email        | 🔗 jaime.portilloperez@gmail.com |
 | 🌐 Website      | 🔗 https://0xporti.com |
-| 🐦 Twitter      | 🔗 https://twitter.com/porti_ |
+| 🐦 Twitter      | 🔗 https://twitter.com/PortiiRM |
 
 ----
