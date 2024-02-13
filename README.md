@@ -1,36 +1,79 @@
 # 👋 Hey, I'm Porti!
 
-I'm a Software Engineering Student from Spain. I'm passionate about technology and love learning new things!
+I'm a Software Engineering Student from Spain. I'm passionate about technology, robotics and self-development!
 
 ## 🎓 Education
 
-I'm currently studying Software Engineering at Rey Juan Carlos University.
+I'm currently studying Software Engineering at Rey Juan Carlos University, Madrid.
 
-## 💻 Technologies
+## 💻 Technologies & Skills
 
 I'm always excited to learn new technologies. Here are some I've been working with recently:
 
-| Language / Technology | Experience Level |
-| -------------------   | ---------------- |
-| JavaScript (ES6+)     | Advanced         |
-| Node.js               | Advanced         |
-| Python                | Intermediate     |
-| Java                  | Intermediate     |
+| Language / Technology | Experience Level   |
+| -------------------   | ------------------ |
+| **🌐 Web**            |
+| JavaScript            | ⭐⭐⭐⭐⭐       |
+| HTML/CSS              | ⭐⭐⭐⭐⭐       |
+| Node.js               | ⭐⭐⭐⭐⭐       |
+| Express.js            | ⭐⭐⭐⭐         |
+| React & redux         | ⭐⭐⭐⭐         |
+| Vue.js                | ⭐                 |
+|
+| **📱 Mobile**         |
+| React Native          | ⭐⭐⭐            |
+|
+| **🗃️ Databases**     |
+| Firebase              | ⭐⭐⭐⭐⭐ 
+| MySQL                 | ⭐⭐⭐⭐         |
+| Oracle                | ⭐⭐⭐⭐         |
+|  
+| **📟 Programming**   |
+| Python                | ⭐⭐⭐⭐⭐       |
+| Java                  | ⭐⭐⭐⭐⭐       |
+| C                     | ⭐⭐⭐⭐⭐       |
+| 
+| **🐧 Operative Systems** |
+| Linux                 | ⭐⭐⭐⭐⭐       |
+| Windows               | ⭐⭐⭐⭐⭐       |
+|
+| **🔧 Tools & Apps**  |
+| Git                   | ⭐⭐⭐⭐⭐       |
+| Chrome Dev Tools      | ⭐⭐⭐⭐⭐       |
+| Notion                | ⭐⭐⭐⭐⭐       |
+| Trello                | ⭐⭐⭐⭐⭐       |
+| Figma                 | ⭐⭐⭐⭐⭐       |
+| Docker                | ⭐⭐⭐⭐         |
+| Blender               | ⭐⭐⭐            |
+| 
+| **⚙️ Hardware**       |
+| Arduino               | ⭐⭐⭐⭐⭐       |
+| Raspberry Pi          | ⭐⭐⭐⭐⭐       |
+| Embedded Systems      | ⭐⭐⭐            |
+| 3D Printing           | ⭐⭐              |
+
+
+
+
 
 ## 🌱 Currently learning
 
 I'm currently diving deeper into:
 
-- Full Stack Development
-- Application Development with Java
+- ☕ Application Development with Java
+- ⚙️ Embeded Systems
+- 🥨 German
 
 ## 📫 How to reach me
 
-Feel free to reach out if you want to chat about technology, need help with something, or have a job opportunity:
+Feel free to reach out by any of my profiles below:
 
-| Method          | Contact Info                               |
+| Method          | Link                                |
 | --------        | ------------------------------------------ |
-| 📧 Email        | jaime.portilloperez@gmail.com |
-| 💼 LinkedIn     | https://www.linkedin.com/in/porti/ |
+| 💼 LinkedIn     | 🔗 https://www.linkedin.com/in/porti/ |
+| 📷 Instagram    | 🔗 https://www.instagram.com/portii.rm |
+| 📧 Email        | 🔗 jaime.portilloperez@gmail.com |
+| 🌐 Website      | 🔗 https://0xporti.com |
+| 🐦 Twitter      | 🔗 https://twitter.com/porti_ |
 
 ----
