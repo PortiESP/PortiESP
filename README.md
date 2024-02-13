@@ -19,24 +19,19 @@ I'm always excited to learn new technologies. Here are some I've been working wi
 | Express.js            | ⭐⭐⭐⭐         |
 | React & redux         | ⭐⭐⭐⭐         |
 | Vue.js                | ⭐                 |
-|
 | **📱 Mobile**         |
 | React Native          | ⭐⭐⭐            |
-|
 | **🗃️ Databases**     |
 | Firebase              | ⭐⭐⭐⭐⭐ 
 | MySQL                 | ⭐⭐⭐⭐         |
 | Oracle                | ⭐⭐⭐⭐         |
-|  
 | **📟 Programming**   |
 | Python                | ⭐⭐⭐⭐⭐       |
 | Java                  | ⭐⭐⭐⭐⭐       |
 | C                     | ⭐⭐⭐⭐⭐       |
-| 
 | **🐧 Operative Systems** |
 | Linux                 | ⭐⭐⭐⭐⭐       |
 | Windows               | ⭐⭐⭐⭐⭐       |
-|
 | **🔧 Tools & Apps**  |
 | Git                   | ⭐⭐⭐⭐⭐       |
 | Chrome Dev Tools      | ⭐⭐⭐⭐⭐       |
@@ -45,7 +40,6 @@ I'm always excited to learn new technologies. Here are some I've been working wi
 | Figma                 | ⭐⭐⭐⭐⭐       |
 | Docker                | ⭐⭐⭐⭐         |
 | Blender               | ⭐⭐⭐            |
-| 
 | **⚙️ Hardware**       |
 | Arduino               | ⭐⭐⭐⭐⭐       |
 | Raspberry Pi          | ⭐⭐⭐⭐⭐       |
